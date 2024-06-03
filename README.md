@@ -1,2 +1,2 @@
-# js-Pong
+# js-pong
 Pong feito no Java
